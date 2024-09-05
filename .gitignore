@@ -1,0 +1,6 @@
+.env/
+env/
+__pycache__/
+*.log
+*.docx
+Proyecto Verificación Backup.docx
