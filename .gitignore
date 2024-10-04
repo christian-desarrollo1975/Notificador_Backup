@@ -1,11 +1,12 @@
 .env/
 env/
+build/
+dist/
 __pycache__/
 *.log
 *.docx
-Proyecto Verificación Backup.docx
+Configuracion Gmail.docx
 registraciones.txt
 clave_app_gmail.txt
-config_.ini
-notificador_backup__.ipynb
-notificador_backup_AA.ipynb
+notificador-back.spec
+documentos.py

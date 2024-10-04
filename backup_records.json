@@ -2,21 +2,96 @@
     {
         "tamano_gb": 6.917958736419678,
         "fecha": "2023-08-31 23:06:29",
-        "codigo_backup": "ok"
+        "codigo_backup": "backup_ok"
     },
     {
         "tamano_gb": 6.917958736419678,
         "fecha": "2023-08-31 23:06:29",
-        "codigo_backup": "Error - Tama\u00f1o menor o igual al \u00faltimo backup. "
+        "codigo_backup": "backup_ErrorTama\u00f1o <="
     },
     {
         "tamano_gb": 6.917958736419678,
         "fecha": "2023-08-31 23:06:29",
-        "codigo_backup": "Error - Tama\u00f1o menor o igual al \u00faltimo backup. "
+        "codigo_backup": "backup_ErrorTama\u00f1o <="
+    },
+    {
+        "tamano_gb": 6.917958736419678,
+        "fecha": "2023-08-31 23:06:29",
+        "codigo_backup": "backup_ErrorTama\u00f1o <="
+    },
+    {
+        "tamano_gb": 6.917958736419678,
+        "fecha": "2023-08-31 23:06:29",
+        "codigo_backup": "backup_ErrorTama\u00f1o <="
+    },
+    {
+        "tamano_gb": 6.917958736419678,
+        "fecha": "2023-08-31 23:06:29",
+        "codigo_backup": "Error tama\u00f1o menor o igual al anterior."
+    },
+    {
+        "tamano_gb": 6.917958736419678,
+        "fecha": "2023-08-31 23:06:29",
+        "codigo_backup": "Error - tama\u00f1o menor o igual al anterior."
+    },
+    {
+        "tamano_gb": 6.917958736419678,
+        "fecha": "2023-08-31 23:06:29",
+        "codigo_backup": "Error - tama\u00f1o menor o igual al anterior."
+    },
+    {
+        "tamano_gb": 6.917958736419678,
+        "fecha": "2023-08-31 23:06:29",
+        "codigo_backup": "Error - tama\u00f1o menor o igual al anterior."
+    },
+    {
+        "tamano_gb": 6.917958736419678,
+        "fecha": "2023-08-31 23:06:29",
+        "codigo_backup": "Error - tama\u00f1o menor o igual al anterior."
     },
     {
         "tamano_gb": 0.04587364196777344,
         "fecha": "2024-02-05 10:25:00",
-        "codigo_backup": "Error - Tama\u00f1o menor o igual al \u00faltimo backup. "
+        "codigo_backup": "Error - tama\u00f1o menor o igual al anterior."
+    },
+    {
+        "tamano_gb": 0.04587364196777344,
+        "fecha": "2024-02-05 10:25:00",
+        "codigo_backup": "Error - tama\u00f1o menor o igual al anterior."
+    },
+    {
+        "tamano_gb": 0.04587364196777344,
+        "fecha": "2024-02-05 10:25:00",
+        "codigo_backup": "Error - tama\u00f1o menor o igual al anterior."
+    },
+    {
+        "tamano_gb": 0.04587364196777344,
+        "fecha": "2024-02-05 10:25:00",
+        "codigo_backup": "Error - tama\u00f1o menor o igual al anterior."
+    },
+    {
+        "tamano_gb": 0.04587364196777344,
+        "fecha": "2024-02-05 10:25:00",
+        "codigo_backup": "Error - tama\u00f1o menor o igual al anterior."
+    },
+    {
+        "tamano_gb": 0.04587364196777344,
+        "fecha": "2024-02-05 10:25:00",
+        "codigo_backup": "Error - tama\u00f1o menor o igual al anterior."
+    },
+    {
+        "tamano_gb": 0.04587364196777344,
+        "fecha": "2024-02-05 10:25:00",
+        "codigo_backup": "Error - tama\u00f1o menor o igual al anterior."
+    },
+    {
+        "tamano_gb": 0.04587364196777344,
+        "fecha": "2024-02-05 10:25:00",
+        "codigo_backup": "Error - tama\u00f1o menor o igual al anterior."
+    },
+    {
+        "tamano_gb": 0.04587364196777344,
+        "fecha": "2024-02-05 10:25:00",
+        "codigo_backup": "Error - tama\u00f1o menor o igual al anterior."
     }
 ]
