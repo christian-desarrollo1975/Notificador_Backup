@@ -1,7 +1,6 @@
 .env/
 env/
 build/
-dist/
 __pycache__/
 *.log
 *.docx
