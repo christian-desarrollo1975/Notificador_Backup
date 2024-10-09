@@ -20,14 +20,13 @@ def configuraciones():
     config = configparser.ConfigParser()
 
     # Leer el archivo de configuración estableciendo una ruta absoluta con r ..... (r'config.ini')
-    """config.read(r'config.ini')"""
+    config.read(r'config.ini')
 
- # --------- REVISAR ---------------------
-    script_dir = os.path.dirname(os.path.abspath(__file__)) # Obtener la ruta del directorio donde se encuentra el script
-    config_path = os.path.join(script_dir, 'config.ini') # Construir la ruta completa al archivo config.ini
-    config.read(config_path) # Leer el archivo de configuración
-# --------- REVISAR ---------------------
+    """script_dir = os.path.dirname(os.path.abspath(__file__)) # Obtener la ruta del directorio donde se encuentra el script
+    config_path = os.path.join(script_dir, 'config.ini') # Construir la ruta completa al archivo config.ini  
+    config.read(config_path) # Leer el archivo de configuración"""
 
+    
 
 
 
