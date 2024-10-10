@@ -104,11 +104,11 @@ def verificar_backup(cliente, ruta_backup, email_origin, email_password, email_d
                 codigo_backup = "Error"
                 # Detectamos si hay un problema con el tamaño
                 if tamano_actual <= tamano_anterior:
-                    codigo_backup += " - tamaño menor o igual al anterior."
+                    codigo_backup += " - Size <= "
     
                 # Detectamos si hay un problema con la fecha
                 if fecha_actual < fecha_anterior:
-                    codigo_backup += " - fecha menor al último backup. "
+                    codigo_backup += " - Fecha <= "
 
             # Preparar el asunto y cuerpo del correo
             asunto = f"ERROR al verificar Backup en {cliente}"
