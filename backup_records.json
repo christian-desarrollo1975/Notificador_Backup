@@ -98,5 +98,10 @@
         "tamano_gb": 0.04587364196777344,
         "fecha": "2024-02-05 10:25:00",
         "codigo_backup": "Error - tama\u00f1o menor o igual al anterior."
+    },
+    {
+        "tamano_gb": 0.04587364196777344,
+        "fecha": "2024-02-05 10:25:00",
+        "codigo_backup": "Error - Size <= "
     }
 ]
