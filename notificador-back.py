@@ -22,14 +22,6 @@ def configuraciones():
     # Leer el archivo de configuración estableciendo una ruta absoluta con r ..... (r'config.ini')
     config.read(r'config.ini')
 
-    """script_dir = os.path.dirname(os.path.abspath(__file__)) # Obtener la ruta del directorio donde se encuentra el script
-    config_path = os.path.join(script_dir, 'config.ini') # Construir la ruta completa al archivo config.ini  
-    config.read(config_path) # Leer el archivo de configuración"""
-
-    
-
-
-
     # Acceder a los parámetros
     # Cliente
     cliente = config['Account']['client']
