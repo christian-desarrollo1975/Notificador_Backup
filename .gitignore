@@ -3,8 +3,6 @@ env/
 build/
 __pycache__/
 *.log
-*.docx
-Configuracion Gmail.docx
 registraciones.txt
 clave_app_gmail.txt
 notificador-back.spec
